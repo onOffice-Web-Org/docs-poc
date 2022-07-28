@@ -36,7 +36,7 @@ jobs:
           git clone https://github.com/onOffice-Web-Org/oo-wp-plugin.git &&
           ls &&
           wget https://phpdoc.org/phpDocumentor.phar &&
-          git clone https://github.com/onOffice-Web-Org/docs-poc.git docs
+          git clone https://github.com/onOffice-Web-Org/docs-poc.git docs &&
           php phpDocumentor.phar -d ./oo-wp-plugin -t ./docs &&
           cd docs &&
           git add . &&
