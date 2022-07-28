@@ -22,8 +22,8 @@
 
     /* Colors */
     --primary-color-hue: 206;
-    --primary-color-saturation: 57%;
-    --primary-color: hsl(var(--primary-color-hue), var(--primary-color-saturation), 60%);
+    --primary-color-saturation: 65%;
+    --primary-color: hsl(var(--primary-color-hue), var(--primary-color-saturation), 64%);
     --primary-color-darken: hsl(var(--primary-color-hue), var(--primary-color-saturation), 40%);
     --primary-color-darker: hsl(var(--primary-color-hue), var(--primary-color-saturation), 20%);
     --primary-color-darkest: hsl(var(--primary-color-hue), var(--primary-color-saturation), 10%);
