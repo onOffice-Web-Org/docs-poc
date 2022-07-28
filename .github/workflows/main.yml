@@ -51,7 +51,7 @@ jobs:
           sed -i 's/--primary-color: hsl(var(--primary-color-hue), var(--primary-color-saturation), 60%)/--primary-color: hsl(var(--primary-color-hue), var(--primary-color-saturation), 64%)/' base.css &&
           sed -i 's/%238DD35F/%2369ACDF/' template.css &&
           cd .. &&
-          for i in `find *` ; do sed -i -- 's/Documentation/oO WP Plugin/g' $i; done &&
+          for i in `find *` ; do sed -i -- 's/Documentation/onOffice WP Plugin/g' $i; done &&
           git add . &&
           git commit -m 'workflow release' &&
           git push origin master &&
