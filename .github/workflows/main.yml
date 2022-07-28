@@ -37,6 +37,8 @@ jobs:
           git clone https://github.com/onOffice-Web-Org/docs-poc.git docs
           php phpDocumentor.phar -d ./oo-wp-plugin -t ./docs &&
           cd docs &&
+          git config --global user.email "kristian.pospis@gmail.com" &&
+          git config --global user.name "Kristian Pospis" &&
           git add . &&
           git commit -m 'workflow release' &&
           git push &&
