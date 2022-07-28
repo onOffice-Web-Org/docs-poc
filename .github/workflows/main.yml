@@ -47,6 +47,8 @@ jobs:
           cd docs &&
           cd css && 
           sed -i 's/--primary-color-hue: 96/--primary-color-hue: 206/' base.css &&
+          sed -i 's/--primary-color-saturation: 57%/--primary-color-saturation: 65%/' base.css &&
+          sed -i 's/--primary-color: hsl(var(--primary-color-hue), var(--primary-color-saturation), 60%)/--primary-color: hsl(var(--primary-color-hue), var(--primary-color-saturation), 64%)/' base.css &&
           git add . &&
           git commit -m 'workflow release' &&
           git push origin master &&
