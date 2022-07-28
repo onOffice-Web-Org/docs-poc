@@ -19,7 +19,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
         with:
-          repository:  onOffice-Web-Org/docs-poc 
+          repository: onOffice-Web-Org/docs-poc 
           #lfs: true
           token: ${{ secrets.ACCESS_TOKEN }}
 
