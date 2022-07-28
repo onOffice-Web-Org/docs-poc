@@ -34,7 +34,10 @@ jobs:
           git clone https://github.com/onOffice-Web-Org/oo-wp-plugin.git &&
           ls &&
           wget https://phpdoc.org/phpDocumentor.phar &&
-          mkdir docs &&
-          php phpDocumentor.phar -d ./oo-wp-plugin -t ./docs &&
+          git clone https://github.com/onOffice-Web-Org/docs-poc.git docs
           cd docs &&
+          php phpDocumentor.phar -d ./oo-wp-plugin -t ./docs &&
+          git add . &&
+          git commit -m 'workflow release' &&
+          git push &&
           ls
