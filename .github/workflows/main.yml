@@ -22,9 +22,10 @@ jobs:
           repository: onOffice-Web-Org/docs-poc 
           ssh-key: '${{ secrets.SSH_EDC }}'
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - name: setup git config
+        run: |
+          git config user.name "pospisk" &&
+          git config user.email "kristian.pospis@gmail.com" 
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
@@ -46,5 +47,5 @@ jobs:
           cd docs &&
           git add . &&
           git commit -m 'workflow release' &&
-          git push &&
+          git push origin master &&
           ls
