@@ -19,7 +19,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
         with:
-          lfs: true
+          #lfs: true
           token: ${{ secrets.ACCESS_TOKEN }}
 
       # Runs a single command using the runners shell
@@ -29,8 +29,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          git config --global user.email "kristian.pospis@gmail.com" &&
-          git config --global user.name "Kristian Pospis" &&
+          git config --global user.email kristian.pospis@gmail.com &&
+          git config --global user.name pospisk &&
           ls &&
           mkdir tempd &&
           ls &&
