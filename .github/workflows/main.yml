@@ -27,5 +27,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           ls &&
+          cat index.html &&
           git clone https://github.com/onOffice-Web-Org/oo-wp-plugin.git &&
           ls
