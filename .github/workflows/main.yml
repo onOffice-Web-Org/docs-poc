@@ -28,10 +28,12 @@ jobs:
         run: |
           ls &&
           mkdir tempd &&
+          ls &&
           cd tempd &&
+          ls &&
           git clone https://github.com/onOffice-Web-Org/oo-wp-plugin.git &&
           ls &&
-          curl -o phpDocumentor.phar https://phpdoc.org/phpDocumentor.phar &&
+          wget https://phpdoc.org/phpDocumentor.phar &&
           mkdir docs &&
           php phpDocumentor.phar -d ./oo-wp-plugin -t ./docs &&
           cd docs &&
