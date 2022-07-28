@@ -30,10 +30,10 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          git config --list &&
-          git config --global user.email kristian.pospis@gmail.com &&
-          git config --global user.name pospisk &&
-          git config --list &&
+          echo "${{ secrets.SSH_EDC }}" > ~/.ssh/edc &&
+          chmod 600 ~/.ssh/edc &&
+          eval `ssh-agent` &&
+          ssh-add ~/.ssh/edc &&
           ls &&
           mkdir tempd &&
           ls &&
