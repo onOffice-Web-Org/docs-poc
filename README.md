@@ -1,7 +1,3 @@
 # onOffice WordPress Plugin Docs
-*proof of concept*
-
-[Docs](https://onoffice-web-org.github.io/docs-poc/)
-
-
+[Docs](https://onoffice-web-org.github.io/oo-wp-docs/)
 based on [PHPdoc](https://phpdoc.org/)
