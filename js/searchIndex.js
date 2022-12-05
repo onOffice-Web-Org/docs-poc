@@ -331,6 +331,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-API-APIEmptyResultException.html"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\API\\APIEmptyResultException\u003A\u003AprintFormatted\u0028\u0029",
+            "name": "printFormatted",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-API-APIEmptyResultException.html#method_printFormatted"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\API\\APIError",
             "name": "APIError",
             "summary": "",
@@ -795,6 +800,16 @@ Search.appendIndex(
             "name": "getField",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Controller-AdminViewController.html#method_getField"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Controller\\AdminViewController\u003A\u003AgeneralAdminNoticeSEO\u0028\u0029",
+            "name": "generalAdminNoticeSEO",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Controller-AdminViewController.html#method_generalAdminNoticeSEO"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Controller\\AdminViewController\u003A\u003AgetPluginSEOActive\u0028\u0029",
+            "name": "getPluginSEOActive",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Controller-AdminViewController.html#method_getPluginSEOActive"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Controller\\AdminViewController\u003A\u003AdisplayUsingEmptyDefaultEmailError\u0028\u0029",
             "name": "displayUsingEmptyDefaultEmailError",
@@ -1656,6 +1671,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method___construct"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Controller\\EstateTitleBuilder\u003A\u003AbuildCustomFieldTitle\u0028\u0029",
+            "name": "buildCustomFieldTitle",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildCustomFieldTitle"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Controller\\EstateTitleBuilder\u003A\u003AbuildTitle\u0028\u0029",
             "name": "buildTitle",
             "summary": "",
@@ -1665,6 +1685,11 @@ Search.appendIndex(
             "name": "buildEstateTitle",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildEstateTitle"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Controller\\EstateTitleBuilder\u003A\u003AbuildEstateCustomTitle\u0028\u0029",
+            "name": "buildEstateCustomTitle",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildEstateCustomTitle"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Controller\\EstateTitleBuilder\u003A\u003AgetViewFieldModifierFactory\u0028\u0029",
             "name": "getViewFieldModifierFactory",
@@ -1810,6 +1835,11 @@ Search.appendIndex(
             "name": "__construct",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Controller-EstateViewDocumentTitleBuilder.html#method___construct"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Controller\\EstateViewDocumentTitleBuilder\u003A\u003AbuildDocumentTitleField\u0028\u0029",
+            "name": "buildDocumentTitleField",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Controller-EstateViewDocumentTitleBuilder.html#method_buildDocumentTitleField"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Controller\\EstateViewDocumentTitleBuilder\u003A\u003AbuildDocumentTitle\u0028\u0029",
             "name": "buildDocumentTitle",
@@ -3040,6 +3070,11 @@ Search.appendIndex(
             "name": "DataFormConfigurationApplicantSearch",
             "summary": "",
             "url": "classes/onOffice-WPlugin-DataFormConfiguration-DataFormConfigurationApplicantSearch.html"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\DataFormConfiguration\\DataFormConfigurationApplicantSearch\u003A\u003AsetDefaultFields\u0028\u0029",
+            "name": "setDefaultFields",
+            "summary": "Override\u0020to\u0020set\u0020default\u0020fields\u0020for\u0020new,\u0020empty\u0020forms",
+            "url": "classes/onOffice-WPlugin-DataFormConfiguration-DataFormConfigurationApplicantSearch.html#method_setDefaultFields"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\DataFormConfiguration\\DataFormConfigurationApplicantSearch\u003A\u003AgetLimitResults\u0028\u0029",
             "name": "getLimitResults",
@@ -4321,6 +4356,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-DataView-DataListViewAddress.html#method_getViewType"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\DataView\\DataListViewAddress\u003A\u003AFIELDS",
+            "name": "FIELDS",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-DataView-DataListViewAddress.html#constant_FIELDS"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\DataView\\DataListViewAddress\u003A\u003A\u0024_id",
             "name": "_id",
             "summary": "",
@@ -5071,6 +5111,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-EstateList.html#method_estateIterator"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\EstateList\u003A\u003Acustom_pre_get_document_title\u0028\u0029",
+            "name": "custom_pre_get_document_title",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-EstateList.html#method_custom_pre_get_document_title"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\EstateList\u003A\u003AgetRawValues\u0028\u0029",
             "name": "getRawValues",
             "summary": "",
@@ -5325,6 +5370,11 @@ Search.appendIndex(
             "name": "_pLanguageSwitcher",
             "summary": "",
             "url": "classes/onOffice-WPlugin-EstateList.html#property__pLanguageSwitcher"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\EstateList\u003A\u003A\u0024_pWPOptionWrapper",
+            "name": "_pWPOptionWrapper",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-EstateList.html#property__pWPOptionWrapper"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\EstateList\u003A\u003A\u0024_redirectIfOldUrl",
             "name": "_redirectIfOldUrl",
@@ -7345,6 +7395,11 @@ Search.appendIndex(
             "name": "setPermittedValuesForEstateSearchFields",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Fieldnames.html#method_setPermittedValuesForEstateSearchFields"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Fieldnames\u003A\u003AloadApiEstateCategories\u0028\u0029",
+            "name": "loadApiEstateCategories",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Fieldnames.html#method_loadApiEstateCategories"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Fieldnames\u003A\u003AmergeFieldLists\u0028\u0029",
             "name": "mergeFieldLists",
@@ -11946,6 +12001,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Installer-DatabaseChanges.html#method_checkContactFieldInDefaultDetail"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Installer\\DatabaseChanges\u003A\u003AupdateDefaultSettingsTitleAndDescription\u0028\u0029",
+            "name": "updateDefaultSettingsTitleAndDescription",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Installer-DatabaseChanges.html#method_updateDefaultSettingsTitleAndDescription"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Installer\\DatabaseChanges\u003A\u003AcheckAllPageIdsHaveDetailShortCode\u0028\u0029",
             "name": "checkAllPageIdsHaveDetailShortCode",
             "summary": "",
@@ -12206,6 +12266,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilder.html#method_readExposes"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilder\u003A\u003AcreateButtonModelFieldsConfigByCategory\u0028\u0029",
+            "name": "createButtonModelFieldsConfigByCategory",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilder.html#method_createButtonModelFieldsConfigByCategory"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilder\u003A\u003AcreateInputModelFieldsConfigByCategory\u0028\u0029",
             "name": "createInputModelFieldsConfigByCategory",
             "summary": "",
@@ -12280,6 +12345,11 @@ Search.appendIndex(
             "name": "createInputModelTemplate",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderDB.html#method_createInputModelTemplate"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderDB\u003A\u003AcreateButtonModelFieldsConfigByCategory\u0028\u0029",
+            "name": "createButtonModelFieldsConfigByCategory",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderDB.html#method_createButtonModelFieldsConfigByCategory"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderDB\u003A\u003AsetInputModelDBFactory\u0028\u0029",
             "name": "setInputModelDBFactory",
@@ -12365,6 +12435,11 @@ Search.appendIndex(
             "name": "DEFAULT_RECORDS_PER_PAGE",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderDBAddress.html#constant_DEFAULT_RECORDS_PER_PAGE"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderDBAddress\u003A\u003A\u0024_defaultFields",
+            "name": "_defaultFields",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderDBAddress.html#property__defaultFields"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderDBEstateListSettings",
             "name": "FormModelBuilderDBEstateListSettings",
@@ -12510,6 +12585,11 @@ Search.appendIndex(
             "name": "DEFAULT_RECORDS_PER_PAGE",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderDBEstateListSettings.html#constant_DEFAULT_RECORDS_PER_PAGE"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderDBEstateListSettings\u003A\u003ADEFAULT_RECORDS_SHOW_STATUS",
+            "name": "DEFAULT_RECORDS_SHOW_STATUS",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderDBEstateListSettings.html#constant_DEFAULT_RECORDS_SHOW_STATUS"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderDBEstateListSettings\u003A\u003A\u0024_defaultFields",
             "name": "_defaultFields",
@@ -12691,6 +12771,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderDBForm.html#method_callbackValueInputModelModule"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderDBForm\u003A\u003AcreateButtonModelFieldsConfigByCategory\u0028\u0029",
+            "name": "createButtonModelFieldsConfigByCategory",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderDBForm.html#method_createButtonModelFieldsConfigByCategory"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderDBForm\u003A\u003AgetFormType\u0028\u0029",
             "name": "getFormType",
             "summary": "",
@@ -12806,6 +12891,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderEstateDetailSettings.html#method_readNameShortCodeForm"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderEstateDetailSettings\u003A\u003AcreateButtonModelFieldsConfigByCategory\u0028\u0029",
+            "name": "createButtonModelFieldsConfigByCategory",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderEstateDetailSettings.html#method_createButtonModelFieldsConfigByCategory"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderEstateDetailSettings\u003A\u003A\u0024_pInputModelDetailViewFactory",
             "name": "_pInputModelDetailViewFactory",
             "summary": "",
@@ -12890,6 +12980,11 @@ Search.appendIndex(
             "name": "setInputModelSimilarViewFactory",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderSimilarEstateSettings.html#method_setInputModelSimilarViewFactory"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderSimilarEstateSettings\u003A\u003AcreateButtonModelFieldsConfigByCategory\u0028\u0029",
+            "name": "createButtonModelFieldsConfigByCategory",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-FormModelBuilder-FormModelBuilderSimilarEstateSettings.html#method_createButtonModelFieldsConfigByCategory"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\FormModelBuilder\\FormModelBuilderSimilarEstateSettings\u003A\u003A\u0024_pInputModelSimilarViewFactory",
             "name": "_pInputModelSimilarViewFactory",
@@ -13711,6 +13806,16 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#method_setDescriptionTextHTML"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AgetDescriptionRadioTextHTML\u0028\u0029",
+            "name": "getDescriptionRadioTextHTML",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#method_getDescriptionRadioTextHTML"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AsetDescriptionRadioTextHTML\u0028\u0029",
+            "name": "setDescriptionRadioTextHTML",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#method_setDescriptionRadioTextHTML"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AgetItalicLabel\u0028\u0029",
             "name": "getItalicLabel",
             "summary": "",
@@ -13720,6 +13825,26 @@ Search.appendIndex(
             "name": "setItalicLabel",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#method_setItalicLabel"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AgetMaxValueHtml\u0028\u0029",
+            "name": "getMaxValueHtml",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#method_getMaxValueHtml"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AsetMaxValueHtml\u0028\u0029",
+            "name": "setMaxValueHtml",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#method_setMaxValueHtml"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AgetMinValueHtml\u0028\u0029",
+            "name": "getMinValueHtml",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#method_getMinValueHtml"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AsetMinValueHtml\u0028\u0029",
+            "name": "setMinValueHtml",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#method_setMinValueHtml"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AHTML_TYPE_SELECT",
             "name": "HTML_TYPE_SELECT",
@@ -13790,6 +13915,11 @@ Search.appendIndex(
             "name": "HTML_TYPE_EMAIL",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#constant_HTML_TYPE_EMAIL"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AHTML_TYPE_BUTTON_FIELD",
+            "name": "HTML_TYPE_BUTTON_FIELD",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#constant_HTML_TYPE_BUTTON_FIELD"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003AHTML_TYPE_ITALIC_LABEL_CHECKBOX",
             "name": "HTML_TYPE_ITALIC_LABEL_CHECKBOX",
@@ -13881,10 +14011,25 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#property__descriptionTextHTML"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003A\u0024_descriptionRadioTextHTML",
+            "name": "_descriptionRadioTextHTML",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#property__descriptionRadioTextHTML"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003A\u0024_italicLabel",
             "name": "_italicLabel",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#property__italicLabel"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003A\u0024_maxValue",
+            "name": "_maxValue",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#property__maxValue"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBase\u003A\u003A\u0024_minValue",
+            "name": "_minValue",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Model-InputModelBase.html#property__minValue"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Model\\InputModelBuilder\\InputModelBuilderCustomLabel",
             "name": "InputModelBuilderCustomLabel",
@@ -15626,6 +15771,21 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Region-RegionFilter.html#method_collectLabelOnlyValues"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldButtonAddRemoveRenderer",
+            "name": "InputFieldButtonAddRemoveRenderer",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldButtonAddRemoveRenderer.html"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldButtonAddRemoveRenderer\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldButtonAddRemoveRenderer.html#method___construct"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldButtonAddRemoveRenderer\u003A\u003Arender\u0028\u0029",
+            "name": "render",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldButtonAddRemoveRenderer.html#method_render"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldButtonRenderer",
             "name": "InputFieldButtonRenderer",
             "summary": "",
@@ -15911,6 +16071,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Renderer-InputFieldRadioRenderer.html#property__checkedValue"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldRadioRenderer\u003A\u003A\u0024_descriptionTextHtmls",
+            "name": "_descriptionTextHtmls",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldRadioRenderer.html#property__descriptionTextHtmls"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldRenderer",
             "name": "InputFieldRenderer",
             "summary": "",
@@ -16021,6 +16186,26 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Renderer-InputFieldRenderer.html#method_getSelectedValue"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldRenderer\u003A\u003AgetMaxValue\u0028\u0029",
+            "name": "getMaxValue",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldRenderer.html#method_getMaxValue"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldRenderer\u003A\u003AsetMaxValue\u0028\u0029",
+            "name": "setMaxValue",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldRenderer.html#method_setMaxValue"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldRenderer\u003A\u003AgetMinValue\u0028\u0029",
+            "name": "getMinValue",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldRenderer.html#method_getMinValue"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldRenderer\u003A\u003AsetMinValue\u0028\u0029",
+            "name": "setMinValue",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldRenderer.html#method_setMinValue"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldRenderer\u003A\u003A\u0024_type",
             "name": "_type",
             "summary": "",
@@ -16070,6 +16255,16 @@ Search.appendIndex(
             "name": "_selectedValue",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Renderer-InputFieldRenderer.html#property__selectedValue"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldRenderer\u003A\u003A\u0024_minValue",
+            "name": "_minValue",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldRenderer.html#property__minValue"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldRenderer\u003A\u003A\u0024_maxValue",
+            "name": "_maxValue",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Renderer-InputFieldRenderer.html#property__maxValue"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Renderer\\InputFieldSelectRenderer",
             "name": "InputFieldSelectRenderer",
@@ -16441,10 +16636,15 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-ScriptLoader-ScriptLoaderGenericConfigurationDefault.html#method_getScriptLoaderGenericConfiguration"
         },                {
-            "fqsen": "\\onOffice\\WPlugin\\ScriptLoader\\ScriptLoaderGenericConfigurationDefault\u003A\u003AgetCSSOnofficeStyle\u0028\u0029",
-            "name": "getCSSOnofficeStyle",
+            "fqsen": "\\onOffice\\WPlugin\\ScriptLoader\\ScriptLoaderGenericConfigurationDefault\u003A\u003AgetStyleUriByVersion\u0028\u0029",
+            "name": "getStyleUriByVersion",
             "summary": "",
-            "url": "classes/onOffice-WPlugin-ScriptLoader-ScriptLoaderGenericConfigurationDefault.html#method_getCSSOnofficeStyle"
+            "url": "classes/onOffice-WPlugin-ScriptLoader-ScriptLoaderGenericConfigurationDefault.html#method_getStyleUriByVersion"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\ScriptLoader\\ScriptLoaderGenericConfigurationDefault\u003A\u003AgetOnOfficeStyleVersion\u0028\u0029",
+            "name": "getOnOfficeStyleVersion",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-ScriptLoader-ScriptLoaderGenericConfigurationDefault.html#method_getOnOfficeStyleVersion"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\ScriptLoader\\ScriptLoaderMap",
             "name": "ScriptLoaderMap",
@@ -16671,6 +16871,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-Template-TemplateCall.html"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\Template\\TemplateCall\u003A\u003AgetTemplatesFolderInfo\u0028\u0029",
+            "name": "getTemplatesFolderInfo",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-Template-TemplateCall.html#method_getTemplatesFolderInfo"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\Template\\TemplateCall\u003A\u003A__construct\u0028\u0029",
             "name": "__construct",
             "summary": "",
@@ -16710,11 +16915,6 @@ Search.appendIndex(
             "name": "TEMPLATE_TYPE_MAIL",
             "summary": "",
             "url": "classes/onOffice-WPlugin-Template-TemplateCall.html#constant_TEMPLATE_TYPE_MAIL"
-        },                {
-            "fqsen": "\\onOffice\\WPlugin\\Template\\TemplateCall\u003A\u003ATEMPLATES_FOLDER_INFO",
-            "name": "TEMPLATES_FOLDER_INFO",
-            "summary": "",
-            "url": "classes/onOffice-WPlugin-Template-TemplateCall.html#constant_TEMPLATES_FOLDER_INFO"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\Template\\TemplateCall\u003A\u003ATEMPLATE_FOLDER_INCLUDED",
             "name": "TEMPLATE_FOLDER_INCLUDED",
@@ -18141,10 +18341,20 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-WPlugin-ViewFieldModifier-EstateViewFieldModifierTypeTitle.html#method_getAPIFields"
         },                {
+            "fqsen": "\\onOffice\\WPlugin\\ViewFieldModifier\\EstateViewFieldModifierTypeTitle\u003A\u003AgetAPICustomFields\u0028\u0029",
+            "name": "getAPICustomFields",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-ViewFieldModifier-EstateViewFieldModifierTypeTitle.html#method_getAPICustomFields"
+        },                {
             "fqsen": "\\onOffice\\WPlugin\\ViewFieldModifier\\EstateViewFieldModifierTypeTitle\u003A\u003AgetVisibleFields\u0028\u0029",
             "name": "getVisibleFields",
             "summary": "",
             "url": "classes/onOffice-WPlugin-ViewFieldModifier-EstateViewFieldModifierTypeTitle.html#method_getVisibleFields"
+        },                {
+            "fqsen": "\\onOffice\\WPlugin\\ViewFieldModifier\\EstateViewFieldModifierTypeTitle\u003A\u003AgetVisibleCustomFields\u0028\u0029",
+            "name": "getVisibleCustomFields",
+            "summary": "",
+            "url": "classes/onOffice-WPlugin-ViewFieldModifier-EstateViewFieldModifierTypeTitle.html#method_getVisibleCustomFields"
         },                {
             "fqsen": "\\onOffice\\WPlugin\\ViewFieldModifier\\EstateViewFieldModifierTypeTitle\u003A\u003AreduceRecord\u0028\u0029",
             "name": "reduceRecord",
@@ -18746,10 +18956,25 @@ Search.appendIndex(
             "summary": "",
             "url": "namespaces/default.html#constant_ONOFFICE_DI_CONFIG_PATH"
         },                {
+            "fqsen": "\\getRestrictLength\u0028\u0029",
+            "name": "getRestrictLength",
+            "summary": "",
+            "url": "namespaces/default.html#function_getRestrictLength"
+        },                {
+            "fqsen": "\\customFieldCallback\u0028\u0029",
+            "name": "customFieldCallback",
+            "summary": "",
+            "url": "namespaces/default.html#function_customFieldCallback"
+        },                {
             "fqsen": "\\update_duplicate_check_warning_option\u0028\u0029",
             "name": "update_duplicate_check_warning_option",
             "summary": "",
             "url": "namespaces/default.html#function_update_duplicate_check_warning_option"
+        },                {
+            "fqsen": "\\update_status_close_action_button_option\u0028\u0029",
+            "name": "update_status_close_action_button_option",
+            "summary": "",
+            "url": "namespaces/default.html#function_update_status_close_action_button_option"
         },                {
             "fqsen": "\\printRegion\u0028\u0029",
             "name": "printRegion",
@@ -19396,6 +19621,21 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-tests-TestClassAdminViewController.html#method_testGetField"
         },                {
+            "fqsen": "\\onOffice\\tests\\TestClassAdminViewController\u003A\u003AtestGeneralAdminNoticeSEO\u0028\u0029",
+            "name": "testGeneralAdminNoticeSEO",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassAdminViewController.html#method_testGeneralAdminNoticeSEO"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassAdminViewController\u003A\u003Arun_activate_plugin_for_test\u0028\u0029",
+            "name": "run_activate_plugin_for_test",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassAdminViewController.html#method_run_activate_plugin_for_test"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassAdminViewController\u003A\u003AtestDisplayEmptyResultException\u0028\u0029",
+            "name": "testDisplayEmptyResultException",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassAdminViewController.html#method_testDisplayEmptyResultException"
+        },                {
             "fqsen": "\\onOffice\\tests\\TestClassAdminViewController\u003A\u003A\u0024_pContainer",
             "name": "_pContainer",
             "summary": "",
@@ -19540,6 +19780,16 @@ Search.appendIndex(
             "name": "_pApiClientAction",
             "summary": "",
             "url": "classes/onOffice-tests-TestClassAPIClientExceptionFactory.html#property__pApiClientAction"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassAPIEmptyResultException",
+            "name": "TestClassAPIEmptyResultException",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassAPIEmptyResultException.html"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassAPIEmptyResultException\u003A\u003AtestPrintFormatted\u0028\u0029",
+            "name": "testPrintFormatted",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassAPIEmptyResultException.html#method_testPrintFormatted"
         },                {
             "fqsen": "\\onOffice\\tests\\TestClassAPIError",
             "name": "TestClassAPIError",
@@ -22531,15 +22781,15 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-tests-TestClassEstateTitleBuilder.html#method_prepare"
         },                {
-            "fqsen": "\\onOffice\\tests\\TestClassEstateTitleBuilder\u003A\u003AtestBuild\u0028\u0029",
-            "name": "testBuild",
-            "summary": "",
-            "url": "classes/onOffice-tests-TestClassEstateTitleBuilder.html#method_testBuild"
-        },                {
             "fqsen": "\\onOffice\\tests\\TestClassEstateTitleBuilder\u003A\u003AgetArrayContainer\u0028\u0029",
             "name": "getArrayContainer",
             "summary": "",
             "url": "classes/onOffice-tests-TestClassEstateTitleBuilder.html#method_getArrayContainer"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassEstateTitleBuilder\u003A\u003AtestBuildCustomFieldTitle\u0028\u0029",
+            "name": "testBuildCustomFieldTitle",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassEstateTitleBuilder.html#method_testBuildCustomFieldTitle"
         },                {
             "fqsen": "\\onOffice\\tests\\TestClassEstateTitleBuilder\u003A\u003A\u0024_pEstateTitleBuilder",
             "name": "_pEstateTitleBuilder",
@@ -22631,20 +22881,15 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-tests-TestClassEstateViewDocumentTitleBuilder.html#method_prepare"
         },                {
-            "fqsen": "\\onOffice\\tests\\TestClassEstateViewDocumentTitleBuilder\u003A\u003AtestBuildDocumentTitleForEmptyEstateId\u0028\u0029",
-            "name": "testBuildDocumentTitleForEmptyEstateId",
+            "fqsen": "\\onOffice\\tests\\TestClassEstateViewDocumentTitleBuilder\u003A\u003AtestBuildDocumentTitleFieldForEmptyEstateId\u0028\u0029",
+            "name": "testBuildDocumentTitleFieldForEmptyEstateId",
             "summary": "",
-            "url": "classes/onOffice-tests-TestClassEstateViewDocumentTitleBuilder.html#method_testBuildDocumentTitleForEmptyEstateId"
+            "url": "classes/onOffice-tests-TestClassEstateViewDocumentTitleBuilder.html#method_testBuildDocumentTitleFieldForEmptyEstateId"
         },                {
-            "fqsen": "\\onOffice\\tests\\TestClassEstateViewDocumentTitleBuilder\u003A\u003AtestBuildDocumentTitleForShortTitle\u0028\u0029",
-            "name": "testBuildDocumentTitleForShortTitle",
+            "fqsen": "\\onOffice\\tests\\TestClassEstateViewDocumentTitleBuilder\u003A\u003AtestBuildDocumentTitleFieldForShortTitle\u0028\u0029",
+            "name": "testBuildDocumentTitleFieldForShortTitle",
             "summary": "",
-            "url": "classes/onOffice-tests-TestClassEstateViewDocumentTitleBuilder.html#method_testBuildDocumentTitleForShortTitle"
-        },                {
-            "fqsen": "\\onOffice\\tests\\TestClassEstateViewDocumentTitleBuilder\u003A\u003AtestBuildDocumentTitleForLongTitle\u0028\u0029",
-            "name": "testBuildDocumentTitleForLongTitle",
-            "summary": "",
-            "url": "classes/onOffice-tests-TestClassEstateViewDocumentTitleBuilder.html#method_testBuildDocumentTitleForLongTitle"
+            "url": "classes/onOffice-tests-TestClassEstateViewDocumentTitleBuilder.html#method_testBuildDocumentTitleFieldForShortTitle"
         },                {
             "fqsen": "\\onOffice\\tests\\TestClassEstateViewDocumentTitleBuilder\u003A\u003A\u0024_pContainer",
             "name": "_pContainer",
@@ -22820,6 +23065,16 @@ Search.appendIndex(
             "name": "testReduceRecord",
             "summary": "",
             "url": "classes/onOffice-tests-TestClassEstateViewFieldModifierTypeTitle.html#method_testReduceRecord"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassEstateViewFieldModifierTypeTitle\u003A\u003AtestApiCustomFields\u0028\u0029",
+            "name": "testApiCustomFields",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassEstateViewFieldModifierTypeTitle.html#method_testApiCustomFields"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassEstateViewFieldModifierTypeTitle\u003A\u003AtestVisibleCustomFields\u0028\u0029",
+            "name": "testVisibleCustomFields",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassEstateViewFieldModifierTypeTitle.html#method_testVisibleCustomFields"
         },                {
             "fqsen": "\\onOffice\\tests\\TestClassEstateViewFieldModifierTypeTitle\u003A\u003A\u0024_exampleRecord",
             "name": "_exampleRecord",
@@ -24301,6 +24556,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-tests-TestClassFormModelBuilderDBEstateListSettings.html#method_testCreateInputModelButton"
         },                {
+            "fqsen": "\\onOffice\\tests\\TestClassFormModelBuilderDBEstateListSettings\u003A\u003AtestCreateButtonModelFieldsConfigByCategory\u0028\u0029",
+            "name": "testCreateButtonModelFieldsConfigByCategory",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassFormModelBuilderDBEstateListSettings.html#method_testCreateButtonModelFieldsConfigByCategory"
+        },                {
             "fqsen": "\\onOffice\\tests\\TestClassFormModelBuilderDBEstateListSettings\u003A\u003A\u0024_pInputModelFactoryDBEntry",
             "name": "_pInputModelFactoryDBEntry",
             "summary": "",
@@ -24416,6 +24676,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-tests-TestClassFormModelBuilderDBForm.html#method_testCreateInputModelFieldsConfigByCategory"
         },                {
+            "fqsen": "\\onOffice\\tests\\TestClassFormModelBuilderDBForm\u003A\u003AtestCreateButtonModelFieldsConfigByCategory\u0028\u0029",
+            "name": "testCreateButtonModelFieldsConfigByCategory",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassFormModelBuilderDBForm.html#method_testCreateButtonModelFieldsConfigByCategory"
+        },                {
             "fqsen": "\\onOffice\\tests\\TestClassFormModelBuilderDBForm\u003A\u003A\u0024_pContainer",
             "name": "_pContainer",
             "summary": "",
@@ -24501,6 +24766,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-tests-TestClassFormModelBuilderEstateDetailSettings.html#method_testCreateInputModelExpose"
         },                {
+            "fqsen": "\\onOffice\\tests\\TestClassFormModelBuilderEstateDetailSettings\u003A\u003AtestCreateButtonModelFieldsConfigByCategory\u0028\u0029",
+            "name": "testCreateButtonModelFieldsConfigByCategory",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassFormModelBuilderEstateDetailSettings.html#method_testCreateButtonModelFieldsConfigByCategory"
+        },                {
             "fqsen": "\\onOffice\\tests\\TestClassFormModelBuilderEstateDetailSettings\u003A\u003AVALUES_BY_ROW",
             "name": "VALUES_BY_ROW",
             "summary": "",
@@ -24580,6 +24850,11 @@ Search.appendIndex(
             "name": "testCreateInputModelSameEstateAmount",
             "summary": "",
             "url": "classes/onOffice-tests-TestClassFormModelBuilderSimilarEstateSettings.html#method_testCreateInputModelSameEstateAmount"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassFormModelBuilderSimilarEstateSettings\u003A\u003AtestCreateButtonModelFieldsConfigByCategory\u0028\u0029",
+            "name": "testCreateButtonModelFieldsConfigByCategory",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassFormModelBuilderSimilarEstateSettings.html#method_testCreateButtonModelFieldsConfigByCategory"
         },                {
             "fqsen": "\\onOffice\\tests\\TestClassFormModelBuilderSimilarEstateSettings\u003A\u003AVALUES_BY_ROW",
             "name": "VALUES_BY_ROW",
@@ -25536,6 +25811,46 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-tests-TestClassIncludeFileModel.html#method_testSetter"
         },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldButtonAddRemoveRenderer",
+            "name": "TestClassInputFieldButtonAddRemoveRenderer",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldButtonAddRemoveRenderer.html"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldButtonAddRemoveRenderer\u003A\u003Aprepare\u0028\u0029",
+            "name": "prepare",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldButtonAddRemoveRenderer.html#method_prepare"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldButtonAddRemoveRenderer\u003A\u003AtestRenderEmptyValues\u0028\u0029",
+            "name": "testRenderEmptyValues",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldButtonAddRemoveRenderer.html#method_testRenderEmptyValues"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldButtonAddRemoveRenderer\u003A\u003AtestRenderWithValues\u0028\u0029",
+            "name": "testRenderWithValues",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldButtonAddRemoveRenderer.html#method_testRenderWithValues"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldButtonAddRemoveRenderer\u003A\u003AtestGetHint\u0028\u0029",
+            "name": "testGetHint",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldButtonAddRemoveRenderer.html#method_testGetHint"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldButtonAddRemoveRenderer\u003A\u003AtestRenderWithArrayValue\u0028\u0029",
+            "name": "testRenderWithArrayValue",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldButtonAddRemoveRenderer.html#method_testRenderWithArrayValue"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldButtonAddRemoveRenderer\u003A\u003AtestSetCheckedValues\u0028\u0029",
+            "name": "testSetCheckedValues",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldButtonAddRemoveRenderer.html#method_testSetCheckedValues"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldButtonAddRemoveRenderer\u003A\u003A\u0024_pContainer",
+            "name": "_pContainer",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldButtonAddRemoveRenderer.html#property__pContainer"
+        },                {
             "fqsen": "\\onOffice\\tests\\TestClassInputFieldButtonRenderer",
             "name": "TestClassInputFieldButtonRenderer",
             "summary": "",
@@ -25721,6 +26036,11 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-tests-TestClassInputFieldRadioRenderer.html"
         },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldRadioRenderer\u003A\u003AtestConstruct\u0028\u0029",
+            "name": "testConstruct",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldRadioRenderer.html#method_testConstruct"
+        },                {
             "fqsen": "\\onOffice\\tests\\TestClassInputFieldRadioRenderer\u003A\u003AtestRenderEmptyValues\u0028\u0029",
             "name": "testRenderEmptyValues",
             "summary": "",
@@ -25730,6 +26050,11 @@ Search.appendIndex(
             "name": "testRenderWithValues",
             "summary": "",
             "url": "classes/onOffice-tests-TestClassInputFieldRadioRenderer.html#method_testRenderWithValues"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassInputFieldRadioRenderer\u003A\u003AtestRenderWithDescription\u0028\u0029",
+            "name": "testRenderWithDescription",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassInputFieldRadioRenderer.html#method_testRenderWithDescription"
         },                {
             "fqsen": "\\onOffice\\tests\\TestClassInputFieldSelectRenderer",
             "name": "TestClassInputFieldSelectRenderer",
@@ -26480,6 +26805,11 @@ Search.appendIndex(
             "name": "testLogError",
             "summary": "",
             "url": "classes/onOffice-tests-TestClassLogger.html#method_testLogError"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassLogger\u003A\u003AtestLogErrorAndDisplayMessageAPIEmptyResultException\u0028\u0029",
+            "name": "testLogErrorAndDisplayMessageAPIEmptyResultException",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassLogger.html#method_testLogErrorAndDisplayMessageAPIEmptyResultException"
         },                {
             "fqsen": "\\onOffice\\tests\\TestClassLogger\u003A\u003A\u0024_pLogger",
             "name": "_pLogger",
@@ -27596,10 +27926,15 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/onOffice-tests-TestClassScriptLoaderGenericConfigurationDefault.html#method_testGetScriptLoaderGenericConfiguration"
         },                {
-            "fqsen": "\\onOffice\\tests\\TestClassScriptLoaderGenericConfigurationDefault\u003A\u003AtestGetCSSOnofficeStyle\u0028\u0029",
-            "name": "testGetCSSOnofficeStyle",
+            "fqsen": "\\onOffice\\tests\\TestClassScriptLoaderGenericConfigurationDefault\u003A\u003AtestGetOnOfficeStyleVersion\u0028\u0029",
+            "name": "testGetOnOfficeStyleVersion",
             "summary": "",
-            "url": "classes/onOffice-tests-TestClassScriptLoaderGenericConfigurationDefault.html#method_testGetCSSOnofficeStyle"
+            "url": "classes/onOffice-tests-TestClassScriptLoaderGenericConfigurationDefault.html#method_testGetOnOfficeStyleVersion"
+        },                {
+            "fqsen": "\\onOffice\\tests\\TestClassScriptLoaderGenericConfigurationDefault\u003A\u003AtestGetStyleUriByVersion\u0028\u0029",
+            "name": "testGetStyleUriByVersion",
+            "summary": "",
+            "url": "classes/onOffice-tests-TestClassScriptLoaderGenericConfigurationDefault.html#method_testGetStyleUriByVersion"
         },                {
             "fqsen": "\\onOffice\\tests\\TestClassScriptLoaderGenericConfigurationDefault\u003A\u003A\u0024_pContainer",
             "name": "_pContainer",

@@ -126,7 +126,7 @@
         <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">37</span>
+    <span class="phpdocumentor-element-found-in__line">38</span>
 
     </aside>
 
@@ -181,6 +181,13 @@
 <dd></dd>
 
             <dt class="phpdocumentor-table-of-contents__entry -method -public">
+    <a href="classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildCustomFieldTitle">buildCustomFieldTitle()</a>
+    <span>
+                                &nbsp;: string    </span>
+</dt>
+<dd></dd>
+
+            <dt class="phpdocumentor-table-of-contents__entry -method -public">
     <a href="classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildTitle">buildTitle()</a>
     <span>
                                 &nbsp;: string    </span>
@@ -212,6 +219,13 @@
     <a href="classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_getViewFieldModifierFactory">getViewFieldModifierFactory()</a>
     <span>
                                 &nbsp;: <a href="classes/onOffice-WPlugin-ViewFieldModifier-ViewFieldModifierFactory.html"><abbr title="\onOffice\WPlugin\ViewFieldModifier\ViewFieldModifierFactory">ViewFieldModifierFactory</abbr></a>    </span>
+</dt>
+<dd></dd>
+
+            <dt class="phpdocumentor-table-of-contents__entry -method -private">
+    <a href="classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildEstateCustomTitle">buildEstateCustomTitle()</a>
+    <span>
+                                &nbsp;: string    </span>
 </dt>
 <dd></dd>
 
@@ -250,7 +264,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">43</span>
+    <span class="phpdocumentor-element-found-in__line">44</span>
 
     </aside>
 
@@ -282,7 +296,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">49</span>
+    <span class="phpdocumentor-element-found-in__line">50</span>
 
     </aside>
 
@@ -314,7 +328,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">46</span>
+    <span class="phpdocumentor-element-found-in__line">47</span>
 
     </aside>
 
@@ -346,7 +360,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">40</span>
+    <span class="phpdocumentor-element-found-in__line">41</span>
 
     </aside>
 
@@ -382,7 +396,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">61</span>
+    <span class="phpdocumentor-element-found-in__line">62</span>
 
     </aside>
 
@@ -438,6 +452,78 @@
             -public
                                                         "
 >
+    <h4 class="phpdocumentor-element__name" id="method_buildCustomFieldTitle">
+        buildCustomFieldTitle()
+        <a href="classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildCustomFieldTitle" class="headerlink"><i class="fas fa-link"></i></a>
+    </h4>
+    <aside class="phpdocumentor-element-found-in">
+    <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
+    :
+    <span class="phpdocumentor-element-found-in__line">98</span>
+
+    </aside>
+
+    
+    <code class="phpdocumentor-code phpdocumentor-signature ">
+    <span class="phpdocumentor-signature__visibility">public</span>
+                    <span class="phpdocumentor-signature__name">buildCustomFieldTitle</span><span>(</span><span class="phpdocumentor-signature__argument"><span class="phpdocumentor-signature__argument__return-type">int&nbsp;</span><span class="phpdocumentor-signature__argument__name">$estateId</span></span><span class="phpdocumentor-signature__argument"><span>, </span><span class="phpdocumentor-signature__argument__return-type">string&nbsp;</span><span class="phpdocumentor-signature__argument__name">$format</span></span><span>)</span><span> : </span><span class="phpdocumentor-signature__response_type">string</span></code>
+
+    
+        <h5 class="phpdocumentor-argument-list__heading">Parameters</h5>
+    <dl class="phpdocumentor-argument-list">
+                    <dt class="phpdocumentor-argument-list__entry">
+                <span class="phpdocumentor-signature__argument__name">$estateId</span>
+                : <span class="phpdocumentor-signature__argument__return-type">int</span>
+                            </dt>
+            <dd class="phpdocumentor-argument-list__definition">
+                
+            </dd>
+                    <dt class="phpdocumentor-argument-list__entry">
+                <span class="phpdocumentor-signature__argument__name">$format</span>
+                : <span class="phpdocumentor-signature__argument__return-type">string</span>
+                            </dt>
+            <dd class="phpdocumentor-argument-list__definition">
+                    <section class="phpdocumentor-description"><p>The Format consists of:
+%1$s: 'objekttitel',
+%2$s: 'objektbeschreibung',
+%3$s: 'ort',
+%4$s: 'plz',
+%5$s: 'objektart',
+%6$s: 'vermarktungsart',
+%7$s: 'Id'</p>
+</section>
+
+            </dd>
+            </dl>
+
+    
+    <h5 class="phpdocumentor-tag-list__heading" id="tags">
+        Tags
+        <a href="#tags" class="headerlink"><i class="fas fa-link"></i></a>
+    </h5>
+    <dl class="phpdocumentor-tag-list">
+                                    <dt class="phpdocumentor-tag-list__entry">
+                    <span class="phpdocumentor-tag__name">throws</span>
+                </dt>
+                <dd class="phpdocumentor-tag-list__definition">
+                                                                <span class="phpdocumentor-tag-link"><abbr title="\Exception">Exception</abbr></span>
+                                                            
+                                             
+                                    </dd>
+                        </dl>
+
+        <h5 class="phpdocumentor-return-value__heading">Return values</h5>
+    <span class="phpdocumentor-signature__response_type">string</span>
+            &mdash;
+        
+    
+</article>
+                    <article
+        class="phpdocumentor-element
+            -method
+            -public
+                                                        "
+>
     <h4 class="phpdocumentor-element__name" id="method_buildTitle">
         buildTitle()
         <a href="classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildTitle" class="headerlink"><i class="fas fa-link"></i></a>
@@ -445,7 +531,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">94</span>
+    <span class="phpdocumentor-element-found-in__line">130</span>
 
     </aside>
 
@@ -470,17 +556,27 @@
                             </dt>
             <dd class="phpdocumentor-argument-list__definition">
                     <section class="phpdocumentor-description"><p>The Format consists of:
-%1$s: 'objekttitel',
-%2$s: 'objektart',
-%3$s: 'vermarktungsart',
-%4$s: 'ort',
-%5$s: 'objektnr_extern',</p>
+%1$s: 'objekttitel',</p>
 </section>
 
             </dd>
             </dl>
 
     
+    <h5 class="phpdocumentor-tag-list__heading" id="tags">
+        Tags
+        <a href="#tags" class="headerlink"><i class="fas fa-link"></i></a>
+    </h5>
+    <dl class="phpdocumentor-tag-list">
+                                    <dt class="phpdocumentor-tag-list__entry">
+                    <span class="phpdocumentor-tag__name">throws</span>
+                </dt>
+                <dd class="phpdocumentor-tag-list__definition">
+                                                                <span class="phpdocumentor-tag-link"><abbr title="\Exception">Exception</abbr></span>
+                                                            
+                                             
+                                    </dd>
+                        </dl>
 
         <h5 class="phpdocumentor-return-value__heading">Return values</h5>
     <span class="phpdocumentor-signature__response_type">string</span>
@@ -501,7 +597,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">146</span>
+    <span class="phpdocumentor-element-found-in__line">198</span>
 
     </aside>
 
@@ -533,7 +629,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">170</span>
+    <span class="phpdocumentor-element-found-in__line">222</span>
 
     </aside>
 
@@ -565,7 +661,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">158</span>
+    <span class="phpdocumentor-element-found-in__line">210</span>
 
     </aside>
 
@@ -597,7 +693,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">134</span>
+    <span class="phpdocumentor-element-found-in__line">186</span>
 
     </aside>
 
@@ -622,6 +718,55 @@
             -private
                                                         "
 >
+    <h4 class="phpdocumentor-element__name" id="method_buildEstateCustomTitle">
+        buildEstateCustomTitle()
+        <a href="classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildEstateCustomTitle" class="headerlink"><i class="fas fa-link"></i></a>
+    </h4>
+    <aside class="phpdocumentor-element-found-in">
+    <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
+    :
+    <span class="phpdocumentor-element-found-in__line">174</span>
+
+    </aside>
+
+    
+    <code class="phpdocumentor-code phpdocumentor-signature ">
+    <span class="phpdocumentor-signature__visibility">private</span>
+                    <span class="phpdocumentor-signature__name">buildEstateCustomTitle</span><span>(</span><span class="phpdocumentor-signature__argument"><span class="phpdocumentor-signature__argument__return-type">string&nbsp;</span><span class="phpdocumentor-signature__argument__name">$format</span></span><span class="phpdocumentor-signature__argument"><span>, </span><span class="phpdocumentor-signature__argument__return-type">array&lt;string|int, mixed&gt;&nbsp;</span><span class="phpdocumentor-signature__argument__name">$values</span></span><span>)</span><span> : </span><span class="phpdocumentor-signature__response_type">string</span></code>
+
+    
+        <h5 class="phpdocumentor-argument-list__heading">Parameters</h5>
+    <dl class="phpdocumentor-argument-list">
+                    <dt class="phpdocumentor-argument-list__entry">
+                <span class="phpdocumentor-signature__argument__name">$format</span>
+                : <span class="phpdocumentor-signature__argument__return-type">string</span>
+                            </dt>
+            <dd class="phpdocumentor-argument-list__definition">
+                
+            </dd>
+                    <dt class="phpdocumentor-argument-list__entry">
+                <span class="phpdocumentor-signature__argument__name">$values</span>
+                : <span class="phpdocumentor-signature__argument__return-type">array&lt;string|int, mixed&gt;</span>
+                            </dt>
+            <dd class="phpdocumentor-argument-list__definition">
+                
+            </dd>
+            </dl>
+
+    
+
+        <h5 class="phpdocumentor-return-value__heading">Return values</h5>
+    <span class="phpdocumentor-signature__response_type">string</span>
+            &mdash;
+        
+    
+</article>
+                    <article
+        class="phpdocumentor-element
+            -method
+            -private
+                                                        "
+>
     <h4 class="phpdocumentor-element__name" id="method_buildEstateTitle">
         buildEstateTitle()
         <a href="classes/onOffice-WPlugin-Controller-EstateTitleBuilder.html#method_buildEstateTitle" class="headerlink"><i class="fas fa-link"></i></a>
@@ -629,7 +774,7 @@
     <aside class="phpdocumentor-element-found-in">
     <abbr class="phpdocumentor-element-found-in__file" title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php"><a href="files/oo-wp-plugin-plugin-controller-estatetitlebuilder.html"><abbr title="oo-wp-plugin/plugin/Controller/EstateTitleBuilder.php">EstateTitleBuilder.php</abbr></a></abbr>
     :
-    <span class="phpdocumentor-element-found-in__line">121</span>
+    <span class="phpdocumentor-element-found-in__line">159</span>
 
     </aside>
 
